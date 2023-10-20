@@ -8,3 +8,4 @@ dashboard 3:https://public.tableau.com/views/Book1_16974858081760/Dashboard3?:la
 story 1:https://public.tableau.com/shared/M859K53QB?:display_count=n&:origin=viz_share_link
 
 story 2:https://public.tableau.com/shared/RKF8Q4JTG?:display_count=n&:origin=viz_share_link
+video link: https://drive.google.com/file/d/163ZyL2E3QSSZHJja5XtcvMDqVNsnap_m/view?usp=drivesdk
