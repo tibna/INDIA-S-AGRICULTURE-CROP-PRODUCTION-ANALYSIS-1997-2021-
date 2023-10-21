@@ -9,4 +9,4 @@ story 1:https://public.tableau.com/shared/M859K53QB?:display_count=n&:origin=viz
 
 story 2:https://public.tableau.com/shared/RKF8Q4JTG?:display_count=n&:origin=viz_share_link
 
-video link: 
+video link: https://drive.google.com/file/d/1V7dOtm6lPs6SzmWJO8NJxp79gT2uGhbm/view?usp=drivesdk
